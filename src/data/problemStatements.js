@@ -512,7 +512,7 @@ const problemStatements = [
   {
     id: 'HS25',
     title: 'AI-Based Traffic Congestion Management',
-    category: 'Smart City & IoT',
+    category: 'Smart City & Internet of Things',
     difficulty: 'Hard',
     tags: ['Traffic', 'IoT', 'Optimization', 'Urban'],
     shortDescription:
@@ -529,7 +529,7 @@ const problemStatements = [
   {
     id: 'HS26',
     title: 'Smart Waste Segregation System',
-    category: 'Smart City & IoT',
+    category: 'Smart City & Internet of Things',
     difficulty: 'Medium',
     tags: ['CV', 'Waste', 'IoT', 'Sorting'],
     shortDescription:
@@ -546,7 +546,7 @@ const problemStatements = [
   {
     id: 'HS27',
     title: 'Intelligent Streetlight Management',
-    category: 'Smart City & IoT',
+    category: 'Smart City & Internet of Things',
     difficulty: 'Easy',
     tags: ['IoT', 'Energy', 'Smart City', 'Automation'],
     shortDescription:
@@ -563,7 +563,7 @@ const problemStatements = [
   {
     id: 'HS28',
     title: 'Real-Time Water Leakage Detection',
-    category: 'Smart City & IoT',
+    category: 'Smart City & Internet of Things',
     difficulty: 'Medium',
     tags: ['IoT', 'Water', 'Anomaly Detection', 'Infrastructure'],
     shortDescription:
@@ -580,7 +580,7 @@ const problemStatements = [
   {
     id: 'HS29',
     title: 'Smart Parking Availability System',
-    category: 'Smart City & IoT',
+    category: 'Smart City & Internet of Things',
     difficulty: 'Easy',
     tags: ['IoT', 'Parking', 'Mobile', 'Urban'],
     shortDescription:
@@ -597,7 +597,7 @@ const problemStatements = [
   {
     id: 'HS30',
     title: 'Urban Air Quality Monitoring Dashboard',
-    category: 'Smart City & IoT',
+    category: 'Smart City & Internet of Things',
     difficulty: 'Medium',
     tags: ['Air Quality', 'IoT', 'Data Viz', 'Health'],
     shortDescription:
